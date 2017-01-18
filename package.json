@@ -1,10 +1,14 @@
 {
   "name": "open-data",
-  "version": "0.6.89",
+  "version": "0.6.9",
   "description": "A package filled with data structures, sort algorithms, selections, and more to come",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs" : {
+    "url": "https://github.com/JulianKnodt/open-data/issues",
+    "email": "julianknodt@gmail.com"
   },
   "keywords": [
     "Data",
@@ -27,6 +31,7 @@
     "Circle",
     "Geometry"
   ],
+  "repository": "https://github.com/JulianKnodt/open-data",
   "author": "Julian Knodt <julianknodt@gmail.com>",
   "license": "MIT"
 }
