@@ -1,0 +1,32 @@
+{
+  "name": "open-data",
+  "version": "0.6.89",
+  "description": "A package filled with data structures, sort algorithms, selections, and more to come",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Structures",
+    "Sorting",
+    "Algoriths",
+    "Selections",
+    "cache",
+    "LRU",
+    "MRU",
+    "Queue",
+    "Time",
+    "Complexity",
+    "stack",
+    "trees",
+    "Binary Trees",
+    "RedBlackTrees",
+    "Lists",
+    "Matrix",
+    "Circle",
+    "Geometry"
+  ],
+  "author": "Julian Knodt <julianknodt@gmail.com>",
+  "license": "MIT"
+}
